@@ -1,4 +1,4 @@
-text = "input_01"
+
 
 with open('artifacts01.txt','r') as f:
     text = f.read()
